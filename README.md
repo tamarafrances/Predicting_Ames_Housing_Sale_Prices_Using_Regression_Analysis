@@ -1,6 +1,6 @@
 # Helping First Time Homebuyers Predict Home Prices in Ames, IA
 
-# Tamara Frances
+## Tamara Frances
 
 ----
 <br> 
