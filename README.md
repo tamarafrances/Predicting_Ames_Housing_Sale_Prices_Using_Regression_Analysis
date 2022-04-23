@@ -1,4 +1,4 @@
-# Project 2 - Helping First Time Homebuyers Predict Home Prices in Ames, IA
+Helping First Time Homebuyers Predict Home Prices in Ames, IA
 
 # Tamara Frances
 
@@ -7,7 +7,7 @@
 
 ### Objective
 
-We were provided with the Ames Housing Dataset, a dataset which contains aroind 80 columns describing different housing features, including sale price. My goal was to create a model that can accurately predict sale price based on a specific list of model features. Ideally, this model would:
+Using the Ames Housing Dataset, my goal was to create a model that can accurately predict sale price based on a specific list of model features. Ideally, this model would:
 * Work better than the null model
 * Score well on both seen and unseen data
 <br><br>
