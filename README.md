@@ -35,6 +35,7 @@ This project aims to predict sale prices of homes in the Ames area given require
 The Ames Housing Dataset contains information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010 ([source](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)).
 
 There are over 80 variables in the dataset covering many aspects of homes in Ames, with 23 nominal, 23 ordinal, 14 discrete, 20 continuous variables, and 2 additional observation identifiers ([source](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt))
+
 <br><br>
 ----
 <br>
